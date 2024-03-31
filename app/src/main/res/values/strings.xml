@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">PAM Praktikum 8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="pengirim">
+        <item>Tokopedia</item>
+        <item>Shoope</item>
+        <item>Anabatik</item>
+        <item>Pertamina</item>
+        <item>Bank Indonesia</item>
+        <item>Dana</item>
+        <item>Air Asia</item>
+        <item>Freeport</item>
+        <item>Bukalapak</item>
+        <item>Google</item>
+        <item>Apple</item>
+    </string-array>
+    <string-array name="waktu">
+        <item>10.30 AM</item>
+        <item>10.30 AM</item>
+        <item>10.30 AM</item>
+        <item>10.30 AM</item>
+        <item>10.30 AM</item>
+        <item>10.30 AM</item>
+        <item>10.30 AM</item>
+        <item>10.30 AM</item>
+        <item>10.30 AM</item>
+        <item>10.30 AM</item>
+        <item>10.30 AM</item>
+    </string-array>
+
+    <string-array name="pesan">
+        <item>Selamat anda diterima magang di Tokopedia</item>
+        <item>Selamat anda diterima magang di Shopee</item>
+        <item>Selamat anda diterima magang di Anabatik</item>
+        <item>Selamat anda diterima magang di Pertamina</item>
+        <item>Selamat anda diterima magang di Bank Indonesia</item>
+        <item>Selamat anda diterima magang di Dana</item>
+        <item>Selamat anda diterima magang di Air Asia</item>
+        <item>Selamat anda diterima magang di Freeport</item>
+        <item>Selamat anda diterima magang di Bukalapak</item>
+        <item>Selamat anda diterima magang di Google</item>
+        <item>Selamat anda diterima magang di Apple</item>
+    </string-array>
+    <string-array name="gambar">
+        <item>tokopedia</item>
+        <item>shoope</item>
+        <item>anabatic</item>
+        <item>pertamina</item>
+        <item>bi</item>
+        <item>dana</item>
+        <item>airasia</item>
+        <item>freeport</item>
+        <item>bukalapak</item>
+        <item>google</item>
+        <item>apple</item>
+    </string-array>
+</resources>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <item
+        android:title="Email"
+
+        />
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_allInbox"
+            android:icon="@drawable/semua_email"
+            android:title="Semua Kotak Masuk"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_utama"
+            android:icon="@drawable/utama"
+            android:title="Utama"/>
+        <item
+            android:id="@+id/nav_promosi"
+            android:icon="@drawable/promosi"
+            android:title="Promosi"/>
+        <item
+            android:id="@+id/nav_sosial"
+            android:icon="@drawable/sosial"
+            android:title="Sosial"/>
+
+        <item
+            android:title="Semua Label"
+
+            />
+
+        <item
+            android:id="@+id/nav_berbintang"
+            android:icon="@drawable/star"
+            android:title="Berbintang"/>
+        <item
+            android:id="@+id/nav_ditunda"
+            android:icon="@drawable/ditunda"
+            android:title="Ditunda"/>
+        <item
+            android:id="@+id/nav_penting"
+            android:icon="@drawable/penting"
+            android:title="Penting"/>
+        <item
+            android:id="@+id/nav_terkirim"
+            android:icon="@drawable/terkirim"
+            android:title="Terkirim"/>
+        <item
+            android:id="@+id/nav_terjadwal"
+            android:icon="@drawable/terjadwal"
+            android:title="Terjadwal"/>
+        <item
+            android:id="@+id/nav_kotak_keluar"
+            android:icon="@drawable/kotak_keluar"
+            android:title="Kotak Keluar"/>
+        <item
+            android:id="@+id/nav_draf"
+            android:icon="@drawable/draf"
+            android:title="Draf"/>
+        <item
+            android:id="@+id/nav_semua_email"
+            android:icon="@drawable/semua_email"
+            android:title="Semua Email"/>
+        <item
+            android:id="@+id/nav_spam"
+            android:icon="@drawable/spam"
+            android:title="Spam"/>
+        <item
+            android:id="@+id/nav_sampah"
+            android:icon="@drawable/sampah"
+            android:title="Sampah"/>
+        <item
+            android:id="@+id/nav_google_apps"
+            android:title="Aplikasi Google"
+            app:showAsAction="always"/>
+        <item
+            android:id="@+id/nav_kalender"
+            android:icon="@drawable/kalender"
+            android:title="Kalender"/>
+        <item
+            android:id="@+id/nav_kontak"
+            android:icon="@drawable/kontak"
+            android:title="Kontak"/>
+        <item
+            android:id="@+id/nav_setelan"
+            android:icon="@drawable/setelan"
+            android:title="Setelan"/>
+        <item
+            android:id="@+id/nav_bantuan"
+            android:icon="@drawable/bantuan"
+            android:title="Bantuan"/>
+    </group>
+
+</menu>
